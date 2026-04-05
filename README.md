@@ -365,12 +365,6 @@ uvm_test_top          random_test / axi_test
 
 ---
 
-## 📄 License
-
-RTL design (`axi_interconnect`, `arbiter`, `priority_encoder`) based on open-source AXI infrastructure. Testbench design, verification plan, and coverage methodology are original work.
-
----
-
 <div align="center">
   <b>Built with ❤️ using SystemVerilog + UVM 1.2</b><br>
   If this helped you, consider giving it a ⭐
